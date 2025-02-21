@@ -1,0 +1,25 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+
+# Next.js
+.next
+out
+build
+
+# Env
+.env
+.env.*     
+
+# Local
+*.local
+*.log
+
+# Mac OS 
+.DS_Store
+
+
+.vercel
+.netlify
